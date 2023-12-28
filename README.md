@@ -1,21 +1,29 @@
-<img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
-<img align="right" src="./img/nine-computer.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
-<ul>
-  <li>🤩️ Apaixonado por Programação, Animes e Música.</li>
-  <li>💻 <b>Trabalho</b> na <a href="https://www.delta-code.online/" target="_blank">Delta Code</a> e já estudei no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-  <li>🔭 Com mais de 2 anos de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
-  <li>🔮 Estou me especializando em Front-end, mas tenho noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-  <li>🚀 Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema.</li>
-  <li>🇺🇸 Tenho inglês intermediário.</li>
-  <li>🎮 Curto jogar <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23null/overview?playlist=unrated&season=all" target="_blank">Valorant</a>, <a href="https://osu.ppy.sh/users/13780075" target="_blank">Osu</a>, <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">HG/PotPvP</a>, e <a href="https://www.chess.com/member/kiy0u" target="_blank">Xadrez</a>.</li>
-  <li>
-    <details>
-      <summary>👽 Curiosidades:</summary>
-      <ul>
-        <li>🤖 Estruturo minha rotina em Javascript.</li>  
-        <li>⛩️ Já assisti mais de 450 animes.</li>
-      </ul>
-    </details>
-  </li>
-</ul>
+<pre>
+┌────────────────▰▰▰
+| <img align="right" src="./img/typing.webp" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
+├ "I keep typing stuff and it keeps working!
+|
+├─▣ Social media stuff:
+|
+├─◈ <a href="stronk-me.vercel.app">Website</a>
+├─◈ <a href="https://twitter.com/_stronkest">Twitter</a>
+├─◈ <a href="https://www.linkedin.com/in/abderrahman-el-asri">LinkedIn</a>
+├─◈ Discord: _stronkest
+|─◈ Problem Solving platforms: <a href = "https://leetcode.com/stronk"><img src='https://github.com/stronk-exe/stronk-exe/blob/main/img/download1.png' height='20'></a> <a href = "https://codeforces.com/profile/stronk"><img src='https://github.com/stronk-exe/stronk-exe/blob/main/img/download2.png' alt='codeforces' height='20'></a> <a href = "https://www.codingame.com/profile/f2fcbf8c06112436da6c14c7ebf7e5b37294674"><img src='https://github.com/stronk-exe/stronk-exe/blob/main/img/download3.png' alt='codingame' height='20'></a>
+|
+└───────────────────────────────▰▰▰
+</pre>
 <br/>
+<p align="center">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
