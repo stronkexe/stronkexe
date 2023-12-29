@@ -1,6 +1,6 @@
 <div style="display: flex;">
 	<div>
-		<img align="right" src="./img/chill.gif" border="2" width="400px" height="200px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
+		<img align="right" src="./img/chill.gif" border="2" width="400px" height="250px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 	</div>
 	<div>
 		<pre>
