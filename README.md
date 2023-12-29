@@ -3,7 +3,7 @@
 | <img align="right" src="./img/chill.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 ├─▣ Socials stuff:
 |
-├─◈🌐 <a href="stronk-me.vercel.app">Website</a>
+├─◈🌐 <a href="http://stronk-me.vercel.app">Website</a>
 ├─◈✖️ <a href="https://twitter.com/_stronkest">Twitter</a>
 ├─◈👥 <a href="https://www.linkedin.com/in/abderrahman-el-asri">LinkedIn</a>
 ├─◈👾 Discord: _stronkest
