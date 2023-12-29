@@ -1,6 +1,13 @@
-<pre>
+<div style="display: flex;">
+	<div>
+		<img align="right" src="./img/chill.gif" border="2" width="400px" height="250px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
+	</div>
+	<div>
+		<pre>
+			
+		
+	
 ┌─────▰▰▰ I keep typing stuff and it keeps working!✨
-| <img align="right" src="./img/chill.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 ├─▣ Socials stuff:
 |
 ├─◈🌐 <a href="http://stronk-me.vercel.app">Website</a>
@@ -10,7 +17,9 @@
 |─◈🥇 Problem Solving platforms: <a href = "https://leetcode.com/stronk"><img src='https://github.com/stronk-exe/stronk-exe/blob/main/img/download1.png' height='20'></a> <a href = "https://codeforces.com/profile/stronk"><img src='https://github.com/stronk-exe/stronk-exe/blob/main/img/download2.png' alt='codeforces' height='20'></a> <a href = "https://www.codingame.com/profile/f2fcbf8c06112436da6c14c7ebf7e5b37294674"><img src='https://github.com/stronk-exe/stronk-exe/blob/main/img/download3.png' alt='codingame' height='20'></a>
 |
 └─────────────────────────────────────────────────────────▰▰▰
-</pre>
+		</pre>
+	</div>
+</div>
 <br/>
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
