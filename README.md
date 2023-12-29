@@ -9,7 +9,7 @@
 ├─◈👾 Discord: _stronkest
 |─◈🥇 Problem Solving platforms: <a href = "https://leetcode.com/stronk"><img src='https://github.com/stronk-exe/stronk-exe/blob/main/img/download1.png' height='20'></a> <a href = "https://codeforces.com/profile/stronk"><img src='https://github.com/stronk-exe/stronk-exe/blob/main/img/download2.png' alt='codeforces' height='20'></a> <a href = "https://www.codingame.com/profile/f2fcbf8c06112436da6c14c7ebf7e5b37294674"><img src='https://github.com/stronk-exe/stronk-exe/blob/main/img/download3.png' alt='codingame' height='20'></a>
 |
-└───────────────────────────────────────────────────────────────▰▰▰
+└───────────────────────────────────────────────────────────▰▰▰
 </pre>
 <br/>
 <p align="center">
