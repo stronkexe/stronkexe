@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./img/chill.gif" border="2" width="1000px" height="400px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
+<img src="./img/mw4y.gif" border="2" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 </p>
 <pre>
 ┌─────▰▰▰ I keep typing stuff and it keeps working!✨
